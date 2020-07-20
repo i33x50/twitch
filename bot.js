@@ -8,7 +8,7 @@ client.on('ready', () => {
       console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
-client.user.setGame(` 😵 الجدع أنا عارفو 😏 والباقي شفاف مش شايفه`,"http://twitch.tv/Dream")
+client.user.setGame(`I Don't have nose, but I care`,"http://twitch.tv/Dream")
 client.user.setStatus("dnd")
 });
 
